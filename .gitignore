@@ -1,0 +1,9 @@
+node_modules/
+.python_deps/
+dist/
+.env
+__pycache__/
+*.py[cod]
+*.log
+data/news_analysis.db
+.DS_Store

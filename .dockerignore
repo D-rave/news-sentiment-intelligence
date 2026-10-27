@@ -1,0 +1,10 @@
+node_modules
+dist
+.git
+.env
+*.log
+__pycache__
+*.pyc
+data/news_analysis.db
+.python_packages
+.python_deps
